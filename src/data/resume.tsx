@@ -4,11 +4,11 @@ import { HomeIcon, NotebookIcon } from "lucide-react";
 
 
 export const DATA = {
-  name: "Yassine Yassif",
-  initials: "YY",
-  url: "https://yyassif.dev",
-  location: "Quebec, CA",
-  locationLink: "https://www.google.com/maps/place/quebec",
+  name: "Youness AABIBI",
+  initials: "YA",
+  url: "https://portfolio-youness-aabibi.vercel.app/",
+  location: "Casablanca, Morocco",
+  locationLink: "",
   description: "Goal-oriented Software Engineer | ML/DL Passionate. I am dedicated to building high-quality products.",
   summary:
     "I'm a passionate Software Engineer based in Quebec, Canada (Currently). With a strong foundation in Front-end, and Back-end technologies, alongside the focus on AI integration in my solutions. I specialize in creating dynamic, user-friendly web applications that not only meet client needs but also deliver an exceptional user experience. Mainly, [I pursued a double degree in computer science and engineering](/#education), and [competed in 3 hackathons for fun](/#hackathons).",
@@ -17,39 +17,26 @@ export const DATA = {
     "TypeScript",
     "Python",
     "Java",
-    "Rust",
     "C++",
-    "Go",
-    "R",
     "Node.js",
     "Next.js",
-    "Django",
-    "FastAPI",
     "React",
     "TailwindCSS",
-    "LLMs (Large Language Models)",
-    "PyTorch",
-    "OpenAI-Gym",
     "OpenCV",
     "PostgreSQL",
     "Supabase",
-    "Docker",
-    "Kubernetes",
-    "Terraform",
-    "AWS",
-    "Git & GitHub / GitLab"
+    "Git & GitHub "
   ],
   navbar: [
     { href: "/", icon: HomeIcon, label: "Home" },
-    { href: "/blog", icon: NotebookIcon, label: "Blog" },
   ],
   contact: {
-    email: "yassif.yassine@gmail.com",
-    tel: "+1 581-672-6965",
+    email: "younesseaabibi828@gmail.com",
+    tel: "+212 613427188",
     social: {
       GitHub: {
         name: "GitHub",
-        url: "https://github.com/yyassif",
+        url: "https://github.com/Younessab12",
         icon: Icons.github,
         navbar: true,
       },
@@ -59,15 +46,9 @@ export const DATA = {
         icon: Icons.linkedin,
         navbar: true,
       },
-      X: {
-        name: "X",
-        url: "https://x.com/yassineyassif",
-        icon: Icons.x,
-        navbar: true,
-      },
       email: {
         name: "Send Email",
-        url: "mailto:yassif.yassine@gmail.com",
+        url: "mailto:younesseaabibi828@gmail.com",
         icon: Icons.email,
         navbar: true,
       },
