@@ -1,4 +1,4 @@
-# @yyassif's Own Portfolio, Made with ❤️ using Next.js
+# YounessAB's Own Portfolio, Made with ❤️ using Next.js
 
 Built with next.js, [shadcn/ui](https://ui.shadcn.com/), and [magic/ui](https://magicui.design/), deployed on Vercel.
 
