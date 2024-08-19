@@ -163,7 +163,7 @@ export default function Page() {
                 </h2>
                 <p className="text-muted-foreground md:text-xl/relaxed lg:text-base/relaxed xl:text-xl/relaxed">
                   During my time in university, I attended{" "}
-                  {DATA.hackathons.length}+ hackathons both as participant &/ mentor. People from around the
+                  {DATA.hackathons.length}+ as participant. People from around the
                   country would come together and build incredible things in 2-3
                   days.
                 </p>
@@ -204,11 +204,11 @@ export default function Page() {
               <p className="mx-auto max-w-[600px] text-muted-foreground md:text-xl/relaxed lg:text-base/relaxed xl:text-xl/relaxed">
                 Want to chat? Just drop a DM{" "}
                 <Link
-                  href={DATA.contact.social.X.url}
+                  href={DATA.contact.social.LinkedIn.url}
                   target="_blank"
                   className="text-blue-500 hover:underline"
                 >
-                  @X
+                  @LinkedIn
                 </Link>{" "}
                 and I&apos;ll respond whenever I can. Or, simply email me{" "}
                 <Link
