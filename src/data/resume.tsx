@@ -222,6 +222,21 @@ export const DATA = {
       ],
     },
     {
+      title: "BPC Bot Programming Contest",
+      dates: "May 26th, 2022",
+      location: "Ben Guerir, Morocco",
+      description: "In this hackaton we have secured the 2nd place ",
+      image: "/assets/hackatons/upf.png",
+      mlh: "",
+      links: [
+        {
+          title: "Gallery",
+          href: "https://www.facebook.com/share/p/fP6VZzWjm5gBMnTc/?mibextid=oFDknk",
+          icon: <Icons.globe className="size-3" />,
+        },
+      ],
+    },
+    {
       title: "UPF Coding Challenge",
       dates: "May 25th, 2024",
       location: "Fez, Morocco",
@@ -238,7 +253,7 @@ export const DATA = {
     },
     {
       title: "MNPC: Moroccan Collegiate Programming Contest",
-      dates: "Oct 19th, 2021",
+      dates: "Oct 13th, 2022",
       location: "Morocco",
       description: "Solved 7 problems out of 12 in total, attaining the 18th place in the national elimination round.",
       image: "/assets/hackatons/mcpc.jpg",
